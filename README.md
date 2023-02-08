@@ -15,6 +15,7 @@ Sample  exapmle website with plenty of files for demos
 simple web project.
 
 ## How to Contribute
+ pls fork this repo and then issue pull requests
 
 ###Copyright
 2023 git training.
