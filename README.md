@@ -8,8 +8,10 @@ Example is to show different parts of git repo and various commands using web  p
 
 ## Purpose
 
-Sample website with plenty of files for demos
+Sample  exapmle website with plenty of files for demos
 
 ## Deployment
+
+simple web project.
 
 ## How to Contribute
