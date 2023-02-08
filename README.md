@@ -15,3 +15,6 @@ Sample  exapmle website with plenty of files for demos
 simple web project.
 
 ## How to Contribute
+
+###Copyright
+2023 git training.
