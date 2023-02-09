@@ -1,6 +1,7 @@
 # Starter Web Repo
 
 This is simple website project.Adding a line for rebasing test purpose.
+MORE CHANGES FROM MY FEATURE BRANCH 
 
 ## Introduction
 
