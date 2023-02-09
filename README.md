@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-This is simple website project.Adding a line for test
+This is simple website project.Adding a line for rebasing test purpose.
 
 ## Introduction
 
