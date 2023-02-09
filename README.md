@@ -2,6 +2,7 @@
 
 This is simple website project.Adding a line for rebasing test purpose.
 MORE CHANGES FROM MY FEATURE BRANCH . updating for emergency fix.
+updates from dev 1
 
 ## Introduction
 
