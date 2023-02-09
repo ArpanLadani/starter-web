@@ -19,4 +19,4 @@ simple web project.
  pls fork this repo and then issue pull requests
 
 ###Copyright
-2023 git training.
+2023 git training.All right reserved
